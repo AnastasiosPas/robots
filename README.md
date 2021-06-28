@@ -1,3 +1,7 @@
+# This is a React.js exercise app made during the study of the Zero-To-Mastery course of Andrei Neagoie through Udemy.com
+It is a cool app and its code is pretty much reusable! 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
