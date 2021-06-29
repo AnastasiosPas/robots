@@ -6,7 +6,7 @@ constructor(props) {
 
     this.state = {
         hasError: false
-    }
+    } 
 
 }
 componentDidCatch(error, info) {
