@@ -1,4 +1,4 @@
-# This is a React.js exercise app made during my study at udemy.com
+# This is a React.js exercise app made during my study through udemy.com
 
 I used a "Robots" API where text (name) is transformed to a unique robot image.
 Also the "template users" from the Fake rest API jsonplaceholder.typicode.com.
